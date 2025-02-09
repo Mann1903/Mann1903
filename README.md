@@ -1,8 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Mann Dsylva 👋<br>🌟 **MTech in Artificial Intelligence @ PDEU, Gandhinagar**  <br>🚀 **Former Junior Software Developer at Augmented System**<br><br>I'm passionate about leveraging technology to create impactful solutions and drive innovation. With a solid foundation in AI, development, and software architecture, I'm always exploring new ways to optimize performance and stay at the forefront of technological advancements.<br><br>---<br><br>### 🔧 Tech Stack<br>- **Languages**: Python, .NET, C#, JavaScript<br>- **Frameworks**: .NET MVC, Flask, MAUI for Android<br>- **Frontend**: React, HTML5, CSS3<br>
 
-📄 **Resume**: [View My Resume](https://Mann1903.github.io/resume.pdf)
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mann-dsylva-97426a22a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Manndsylva) 
 
